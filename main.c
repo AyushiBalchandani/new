@@ -1,13 +1,1 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
-
-Initial Security()
-{
- //Sample Code
-}
-
-}
+entirely original data is changed with the last line edited
