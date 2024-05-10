@@ -1,3 +1,1 @@
-entirely original data is changed with the last line edited
-
-the code is duplicate
+final change is edited in the original master branch main.c
